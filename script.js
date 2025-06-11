@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const btnPajero = document.getElementById('btn-pajero');
     const btnReset = document.getElementById('btn-reset');
     const contadorPajeros = document.getElementById('contador-pajeros');
+    const mensajePajero = document.getElementById('mensaje-pajero');
 
     if (btnContar && contadorPajeros) {
         btnContar.addEventListener('click', function() {
@@ -12,9 +13,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    if (btnPajero) {
+    if (btnPajero && mensajePajero) {
         btnPajero.addEventListener('click', function() {
-            alert(contador + ' Pajeros Detectados');
+            mensajePajero.textContent = contador + ' Pajeros Detectados';
         });
     }
 
