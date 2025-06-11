@@ -1,0 +1,9 @@
+cosas por hacer:
+
+cada 100 clicks, que saque un logro hasta los 1000
+al pajero 1000, que pueda hacer prestigio pajoso
+cada prestigio sube la cantidad de clicks
+
+como antichetos, que revise a qué velocidad van los clicks
+si 3 (5?) son exactamente iguales en su demora ms, que lo
+reinicie a cero y salte el aviso "PAJERO CHETERO"
