@@ -5,5 +5,15 @@ al pajero 1000, que pueda hacer prestigio pajoso
 cada prestigio sube la cantidad de clicks
 
 como antichetos, que revise a qué velocidad van los clicks
-si 3 (5?) son exactamente iguales en su demora ms, que lo
+si 3 consecutivos son exactamente iguales en su demora ms, que lo
 reinicie a cero y salte el aviso "PAJERO CHETERO"
+
+mejoras futuras:
+guardado automático y persistente (localStorage)
+animaciones y feedback visual (destellos, rebotes, partículas)
+nuevos poderes o mejoras (desbloqueables, multiplicadores)
+sistema de estadísticas (pajeros totales, clicks manuales, tiempo jugado)
+sonidos y música (efectos para clicks, logros, prestigios, poderes)
+personalización visual (temas, fondos, aspecto de botones)
+desafíos diarios o misiones (objetivos diarios/semanales)
+ranking local o global (tabla de récords local o integración online)
